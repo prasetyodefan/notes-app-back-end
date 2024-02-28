@@ -10,6 +10,7 @@
   },
   "keywords": [],
   "author": "",
+  "repository": "https://github.com/prasetyodefan/notes-app-back-end.git",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.52.0",
